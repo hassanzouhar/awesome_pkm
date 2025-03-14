@@ -1,13 +1,9 @@
-Remembering...
-
-I notice you'd like me to expand your list of PKM (Personal Knowledge Management) tools. Let me add several more tools to make your list more comprehensive while maintaining the same pros/cons format.
-
-# My awesome list of PKM tools
+# Awesome list of PKM tools
+In my search for a personal knowledge tool that fits my workflows I have tried a few... as I progress I will add to this list.
 
 ### Obsidian.md
-http://obsidian.md
-Personal experience:
-Pros: 
+Link: http://obsidian.md
+##### Pros: 
 - Active Community
 - Large number of community developed extensions
 - Support of .md keeps personal data fluid
@@ -15,18 +11,22 @@ Pros:
 - Graph view for visualizing connections between notes
 - Customizable workspace with flexible panes
 - Regular updates with new features
+- Endless possibilities in visualisation of data through plugins like Dataview, MetaButton etc
 
-Cons:
+##### Cons:
 - Narrow core features leads to extended use of extensions
 - Less focus on actual note taking
 - Can become overwhelming with too many plugins
 - Mobile experience not as refined as desktop
 - Learning curve for setting up an efficient workflow
+- Native sync between desktop / mobile is paid and prone to fail
+- Technically complex to do simple collections, visualisations etc
+- Tables and other Quality of Life features not easy to use
 
 ### Anytype
-http://anytype.io
-Personal experience:
-Pros:
+Link: http://anytype.io
+
+##### Pros:
 - Object-oriented approach to notes and knowledge
 - End-to-end encryption for privacy
 - Local-first philosophy similar to Obsidian
@@ -35,7 +35,7 @@ Pros:
 - Clean, modern interface with good visual hierarchy
 - No subscription required
 
-Cons:
+##### Cons:
 - Still in development with occasional stability issues
 - Smaller community compared to alternatives
 - Fewer extensions and customization options
@@ -44,9 +44,9 @@ Cons:
 - Search functionality not as robust as competitors
 
 ### Craft.do
-http://craft.do
-Personal experience:
-Pros:
+Link: http://craft.do
+
+##### Pros:
 - Beautiful, polished interface with excellent typography
 - Intuitive block-based editor with seamless multimedia integration
 - Strong iOS and MacOS integration with native feel
@@ -55,7 +55,7 @@ Pros:
 - Focused on creating beautiful documents quickly
 - Excellent mobile experience
 
-Cons:
+##### Cons:
 - Limited customization compared to Obsidian
 - Subscription-based pricing model
 - Not truly local-first (though local storage is available)
@@ -64,9 +64,9 @@ Cons:
 - More limited Windows/Android experience
 
 ### Logseq
-http://logseq.com
-Personal experience:
-Pros:
+Link: http://logseq.com
+
+##### Pros:
 - Open-source with active development
 - Combines outlining with daily journals
 - Bidirectional linking similar to Roam Research
@@ -76,7 +76,7 @@ Pros:
 - Strong keyboard shortcuts for efficient workflow
 - Built-in spaced repetition for learning
 
-Cons:
+##### Cons:
 - Interface can feel less polished than alternatives
 - Performance issues with larger knowledge bases
 - Mobile apps still maturing
@@ -85,9 +85,9 @@ Cons:
 - Search functionality sometimes inconsistent
 
 ### Roam Research
-http://roamresearch.com
-Personal experience:
-Pros:
+Link: http://roamresearch.com
+
+##### Pros:
 - Pioneer of bidirectional linking and networked thought
 - Block-level referencing for granular knowledge management
 - Daily notes built into core workflow
@@ -96,7 +96,7 @@ Pros:
 - Highly flexible structure adapts to different thinking styles
 - JavaScript customization for power users
 
-Cons:
+##### Cons:
 - Expensive subscription model ($15/month or $165/year)
 - No true offline mode or local-first option
 - Steeper learning curve than more visual tools
@@ -106,9 +106,9 @@ Cons:
 - Mobile experience limited to web app
 
 ### Notion
-http://notion.so
-Personal experience:
-Pros:
+Link: http://notion.so
+
+##### Pros:
 - All-in-one workspace combining notes, databases, and project management
 - Excellent collaboration features for teams
 - Highly versatile with templates for virtually any use case
@@ -117,7 +117,7 @@ Pros:
 - Regular feature updates and improvements
 - Good cross-platform experience
 
-Cons:
+##### Cons:
 - Performance can be slow, especially when offline
 - Not truly local-first (content primarily stored in cloud)
 - Can become complex and overwhelming for simple note-taking
@@ -127,9 +127,9 @@ Cons:
 - More focused on productivity than knowledge management
 
 ### Tana
-http://tana.inc
-Personal experience:
-Pros:
+Link: http://tana.inc
+
+##### Pros:
 - Combines structured data with flexible note-taking
 - Powerful "supertags" for creating custom data structures
 - Command menu interface reduces need for complex menus
@@ -138,7 +138,7 @@ Pros:
 - Excellent for both structured and unstructured information
 - API access for integration with other systems
 
-Cons:
+##### Cons:
 - Invite-only during extended beta period
 - Subscription-based model with limited free tier
 - Cloud-first approach without strong offline capabilities
@@ -148,9 +148,9 @@ Cons:
 - Can feel overwhelming due to powerful but complex features
 
 ### Evernote
-http://evernote.com
-Personal experience:
-Pros:
+Link: http://evernote.com
+
+##### Pros:
 - Mature platform with long history and stability
 - Excellent web clipper for saving online content
 - Strong OCR capabilities for searching text in images
@@ -159,7 +159,7 @@ Pros:
 - Simple and straightforward note organization
 - Large user community and extensive documentation
 
-Cons:
+##### Cons:
 - Limited innovation compared to newer tools
 - Basic note-taking features compared to modern PKM systems
 - No bidirectional linking or knowledge graph
@@ -169,9 +169,9 @@ Cons:
 - Focused more on storage than knowledge connection
 
 ### RemNote
-http://remnote.com
-Personal experience:
-Pros:
+Link: http://remnote.com
+
+##### Pros:
 - Combines note-taking with spaced repetition flashcards
 - Excellent for students and academic research
 - Hierarchical structure good for organized thinkers
@@ -180,7 +180,7 @@ Pros:
 - Active development with regular feature updates
 - Community-driven plugin system
 
-Cons:
+##### Cons:
 - Interface less polished than premium alternatives
 - Learning curve for maximizing advanced features
 - Mobile experience not as refined as desktop
@@ -190,9 +190,9 @@ Cons:
 - Performance issues with very large knowledge bases
 
 ### Athens Research
-http://athensresearch.org
-Personal experience:
-Pros:
+Link: http://athensresearch.org
+
+##### Pros:
 - Open-source alternative to Roam Research
 - Clean, minimalist interface focused on content
 - Strong community-driven development
@@ -201,7 +201,7 @@ Pros:
 - Daily notes built into core workflow
 - No subscription required
 
-Cons:
+##### Cons:
 - Less active development than some alternatives
 - Smaller ecosystem of extensions and templates
 - Limited formatting options compared to Obsidian
@@ -211,9 +211,9 @@ Cons:
 - Smaller community for support and resources
 
 ### Dendron
-http://dendron.so
-Personal experience:
-Pros:
+Link: http://dendron.so
+
+##### Pros:
 - VS Code extension leveraging familiar editor environment
 - Hierarchical note structure with powerful organization
 - Built for developers and technical users
@@ -222,7 +222,7 @@ Pros:
 - Open-source with active community
 - Excellent for technical documentation
 
-Cons:
+##### Cons:
 - Steep learning curve for non-technical users
 - UI limited by VS Code constraints
 - Less visual/graphical than dedicated PKM tools
