@@ -1,3 +1,5 @@
 # My awesome list of PKM tools
-> Obsidian.md
->> lorem
+### Obsidian.md
+http://obsidian.md
+### Anytype
+http://anytype.io
