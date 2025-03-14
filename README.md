@@ -189,26 +189,6 @@ Link: http://remnote.com
 - Less flexible than pure PKM systems for certain workflows
 - Performance issues with very large knowledge bases
 
-### Athens Research
-Link: http://athensresearch.org
-
-##### Pros:
-- Open-source alternative to Roam Research
-- Clean, minimalist interface focused on content
-- Strong community-driven development
-- Local-first approach with optional sync
-- Excellent bidirectional linking implementation
-- Daily notes built into core workflow
-- No subscription required
-
-##### Cons:
-- Less active development than some alternatives
-- Smaller ecosystem of extensions and templates
-- Limited formatting options compared to Obsidian
-- Less polished mobile experience
-- Documentation not as comprehensive
-- Fewer integrations with external services
-- Smaller community for support and resources
 
 ### Dendron
 Link: http://dendron.so
